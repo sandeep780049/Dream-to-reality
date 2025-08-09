@@ -1,0 +1,5 @@
+flask==2.3.2
+rembg==2.0.34
+pillow
+numpy
+gunicorn
