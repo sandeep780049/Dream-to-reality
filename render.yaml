@@ -1,1 +1,6 @@
-
+services:
+  - type: web
+    name: dream-to-reality
+    env: docker
+    plan: starter
+    # If you want to use unmanaged (dockerfile), Render will build using Dockerfile in repo root
